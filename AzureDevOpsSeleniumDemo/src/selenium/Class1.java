@@ -52,7 +52,7 @@ public class Class1 {
 	 
 			 driver.get("https://www.saucedemo.com/");
 			 
-			 System.out.println("=====================> Browser Launched");
+			 System.out.println("=====================> Browser Started");
 		   
 	   }
 	  
